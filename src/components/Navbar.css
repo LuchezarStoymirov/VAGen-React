@@ -1,0 +1,35 @@
+.Navbar{
+    background-image: linear-gradient(to bottom right, #2f2f2f, grey);
+    font-family: sans-serif;
+    margin: 0px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 80px;
+}
+
+.Navbar > ul {
+    list-style-type: none;
+}
+
+.Navbar > ul > li > h1{
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    color: white;
+    font-size: 40px;
+}
+
+.Navbar > ul > li > table{
+    display: inline-block;
+    float: right;
+    margin-right: 20px;
+    margin-top: 38px;
+}
+
+.Navbar > ul > li > table > tr > td{
+    margin-left: 40px;
+    display: inline-block;
+    color: white;
+}

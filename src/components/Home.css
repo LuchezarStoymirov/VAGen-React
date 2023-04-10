@@ -1,0 +1,19 @@
+.Home{
+    margin-top: 180px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Home > h1{
+    text-decoration: underline;
+}
+
+.Home > p {
+    margin-left: 34%;
+    margin-right: 66%;
+    width: 400px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}

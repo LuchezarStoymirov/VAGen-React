@@ -1,0 +1,14 @@
+.Card{
+    font-family: sans-serif;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 90px;
+    display: inline-block;
+    height: 180px;
+    width: 300px;
+    border-radius: 15px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+

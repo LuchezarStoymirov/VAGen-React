@@ -1,0 +1,16 @@
+.Footer{
+    position: absolute;
+    bottom: 0px;
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #2f2f2f, grey);
+    margin: 0px;
+    width: 100%;
+    left: 0px;
+    height: 25px;
+}
+
+.Footer > p {
+    font-size: 10px;
+    text-align: center;
+    color: white;
+}
