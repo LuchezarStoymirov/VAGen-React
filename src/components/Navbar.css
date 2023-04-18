@@ -1,12 +1,13 @@
 .Navbar{
-    background-image: linear-gradient(to bottom right, #2f2f2f, grey);
+    background-color: black;
     font-family: sans-serif;
     margin: 0px;
     width: 100%;
     position: absolute;
     top: 0px;
     left: 0px;
-    height: 80px;
+    height: 78px;
+    
 }
 
 .Navbar > ul {
@@ -32,4 +33,5 @@
     margin-left: 40px;
     display: inline-block;
     color: white;
+    cursor: default;
 }
