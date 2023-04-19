@@ -26,7 +26,7 @@ function App(){
   return(
     <div>
       <nav className="Navbar" style={{
-        borderBottom: activeTab===1? '2px solid #FFA701': activeTab===2? '2px solid #FFA701': '2px solid #1167b1'}}>
+        borderBottom: '2px solid #FFA701'}}>
             <ul>
                 <li>
                     <h1>VAGen Service</h1>

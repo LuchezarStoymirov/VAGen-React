@@ -5,24 +5,37 @@
     margin: 0;
     left: 0px;
     top: 80px;
-    background-color: aqua;
+    background-image: url(/public/images/binding_dark.png);
+    background-size: auto;
+    background-repeat: repeat;
     text-align: center;
 }
 
 .Contacts{
     font-family: sans-serif;
-    width: 80%;
+    width: 50%;
     height: 450px;
     background-color: white;
     margin: auto;
     margin-top: 22px;
     border-radius: 10px;
+    background-image: linear-gradient(to bottom, #FFA701, grey);
 }
 
 .mapdiv{
     width: 300px;
     height: 300px;
-    background-color: green;
     float: right;
     margin-right: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.ContactInfo{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: left;
+    position: absolute;
+    width: 280px;
 }

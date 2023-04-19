@@ -1,6 +1,6 @@
 .Card{
     font-family: sans-serif;
-    background-image: linear-gradient(to bottom, grey, white);
+    background-image: linear-gradient(to bottom, grey, white, white);
     margin-top: 50px;
     margin-left: 90px;
     display: inline-block;
